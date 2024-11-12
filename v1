@@ -27,8 +27,7 @@
     destination: '/market-analysis/tremp-price-prediction-today/',
     permanent: true,
     statusCode: 301,
-}
-
+},
 {
     source: '/market-analysis/mog-mog-price-prediction-today-will-it-surge-to-new-highs/',
     destination: '/market-analysis/mog-price-prediction-today/',
@@ -52,8 +51,7 @@
     destination: '/market-analysis/mog-price-prediction-today/',
     permanent: true,
     statusCode: 301,
-}
-
+},
 {
     source: '/market-analysis/popcat-pop-price-prediction-today-will-it-break-0-70-resistance-soon/',
     destination: '/market-analysis/popcat-price-prediction-today/',
@@ -119,8 +117,7 @@
     destination: '/market-analysis/popcat-price-prediction-today/',
     permanent: true,
     statusCode: 301,
-}
-
+},
 {
     source: '/market-analysis/dogwifhat-price-prediction-today-is-a-breakout-imminent/',
     destination: '/market-analysis/dogwifhat-price-prediction-today/',
@@ -174,7 +171,7 @@
     destination: '/market-analysis/dogwifhat-price-prediction-today/',
     permanent: true,
     statusCode: 301,
-}
+},
 {
     source: '/market-analysis/solana-sol-price-prediction-today-can-sol-rise-above-162-this-week/',
     destination: '/market-analysis/solana-sol-price-prediction-today/',
@@ -216,13 +213,13 @@
     destination: '/market-analysis/solana-sol-price-prediction-today/',
     permanent: true,
     statusCode: 301,
-}
+},
 {
     source: '/market-analysis/solana-sol-price-prediction/',
     destination: '/market-analysis/solana-sol-price-prediction-today/',
     permanent: true,
     statusCode: 301,
-}
+},
 {
     source: '/market-analysis/bitcoin-price-prediction-today-will-btc-rebound-after-59k-support-retest/',
     destination: '/market-analysis/bitcoin-btc-price-prediction-today/',
@@ -276,7 +273,7 @@
     destination: '/market-analysis/bitcoin-btc-price-prediction-today/',
     permanent: true,
     statusCode: 301,
-}
+},
 {
     source: '/market-analysis/shiba-inu-shib-technical-analysis-next-move-above-0-0000215/',
     destination: '/market-analysis/shiba-inu-shib-price-prediction-today/',
@@ -294,14 +291,13 @@
     destination: '/market-analysis/shiba-inu-shib-price-prediction-today/',
     permanent: true,
     statusCode: 301,
-}
-
+},
 {
     source: '/market-analysis/shiba-inu-shib-price-prediction/',
     destination: '/market-analysis/shiba-inu-shib-price-prediction-today/',
     permanent: true,
     statusCode: 301,
-}
+},
 {
     source: '/market-analysis/pepe-technical-analysis-can-pepe-reclaim-trendline-for-bullish-move/',
     destination: '/market-analysis/pepe-price-prediction-today/',
@@ -355,7 +351,7 @@
     destination: '/market-analysis/pepe-price-prediction-today/',
     permanent: true,
     statusCode: 301,
-}
+},
 {
     source: '/market-analysis/dogecoin-doge-technical-analysis-can-doge-hold-0-13-support/',
     destination: '/market-analysis/dogecoin-doge-price-prediction-today/',
@@ -403,4 +399,4 @@
     destination: '/market-analysis/dogecoin-doge-price-prediction-today/',
     permanent: true,
     statusCode: 301,
-}
+},
