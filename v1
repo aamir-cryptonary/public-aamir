@@ -1,0 +1,406 @@
+{
+    source: '/market-analysis/tremp-price-prediction-today-will-it-break-the-downtrend-soon/',
+    destination: '/market-analysis/tremp-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/tremp-price-prediction-today-can-0-18-support-avoid-breakdown/',
+    destination: '/market-analysis/tremp-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/tremp-price-prediction-for-today/',
+    destination: '/market-analysis/tremp-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/tremp-crypto-coin-tremp-price-today-chart-analysis-prediction/',
+    destination: '/market-analysis/tremp-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/tremp-price-prediction/',
+    destination: '/market-analysis/tremp-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+}
+
+{
+    source: '/market-analysis/mog-mog-price-prediction-today-will-it-surge-to-new-highs/',
+    destination: '/market-analysis/mog-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/mog-price-prediction-is-0-0000001-the-next-dca-level/',
+    destination: '/market-analysis/mog-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/mog-price-prediction-today-is-a-breakout-above-0-011-possible/',
+    destination: '/market-analysis/mog-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/mog-price-prediction-115-surge-and-key-support-levels/',
+    destination: '/market-analysis/mog-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+}
+
+{
+    source: '/market-analysis/popcat-pop-price-prediction-today-will-it-break-0-70-resistance-soon/',
+    destination: '/market-analysis/popcat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/popcat-price-prediction-today-will-pop-hold-0-55-support-today/',
+    destination: '/market-analysis/popcat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/popcat-price-prediction-today-will-it-hit-1-60-1-80-today/',
+    destination: '/market-analysis/popcat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/popcat-price-prediction-today-will-pop-reach-2-00-by-christmas/',
+    destination: '/market-analysis/popcat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/popcat-price-prediction-today-can-it-break-the-0-50-resistance/',
+    destination: '/market-analysis/popcat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/popcat-price-prediction-today-will-pop-break-above-0-66/',
+    destination: '/market-analysis/popcat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/popcat-price-prediction-today-is-0-40-support-enough-for-a-breakout/',
+    destination: '/market-analysis/popcat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/popcat-price-prediction-today-can-it-bounce-back-from-0-40-support/',
+    destination: '/market-analysis/popcat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/popcat-price-prediction-today-can-0-55-support-prevent-a-dip/',
+    destination: '/market-analysis/popcat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/popcat-price-prediction-for-today-is-a-rally-from-0-65-possible/',
+    destination: '/market-analysis/popcat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/popcat-price-prediction-today-potential-pullback-to-0-65-0-72-for-bidding/',
+    destination: '/market-analysis/popcat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+}
+
+{
+    source: '/market-analysis/dogwifhat-price-prediction-today-is-a-breakout-imminent/',
+    destination: '/market-analysis/dogwifhat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/dogwifhat-wif-price-prediction-will-it-reach-3-05-resistance/',
+    destination: '/market-analysis/dogwifhat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/dogwifhat-wif-price-prediction-today-will-wif-reclaim-1-60-or-drop/',
+    destination: '/market-analysis/dogwifhat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/wif-price-prediction-today-can-it-recover-from-1-40-or-drop-to-1-20/',
+    destination: '/market-analysis/dogwifhat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/wif-at-1-65-will-it-break-2-resistance-or-consolidate/',
+    destination: '/market-analysis/dogwifhat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/wif-price-prediction-today-can-it-breakout-and-hit-2-20-target/',
+    destination: '/market-analysis/dogwifhat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/dogwifhat-wif-price-prediction-today-is-2-20-breakout-next/',
+    destination: '/market-analysis/dogwifhat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/dogwifhat-wif-price-prediction-whats-next-after-1-60-break/',
+    destination: '/market-analysis/dogwifhat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/wif-crypto-price-prediction-for-today-can-it-reclaim-2-20-today/',
+    destination: '/market-analysis/dogwifhat-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+}
+{
+    source: '/market-analysis/solana-sol-price-prediction-today-can-sol-rise-above-162-this-week/',
+    destination: '/market-analysis/solana-sol-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/solana-price-prediction-today-will-sol-break-120-or-retest-140/',
+    destination: '/market-analysis/solana-sol-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/solana-sol-price-prediction-today-will-sol-rebound-stronger-in-q4-2024/',
+    destination: '/market-analysis/solana-sol-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/solana-sol-price-prediction-today-will-it-break-162-or-drop-below-131/',
+    destination: '/market-analysis/solana-sol-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/sol-price-prediction-today-will-it-break-170-resistance-soon/',
+    destination: '/market-analysis/solana-sol-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/solana-sol-price-prediction-today-can-solana-push-beyond-160-this-week/',
+    destination: '/market-analysis/solana-sol-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/solana-price-prediction-today-dont-buy-sol-until-you-read-this-analysis/',
+    destination: '/market-analysis/solana-sol-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+}
+{
+    source: '/market-analysis/solana-sol-price-prediction/',
+    destination: '/market-analysis/solana-sol-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+}
+{
+    source: '/market-analysis/bitcoin-price-prediction-today-will-btc-rebound-after-59k-support-retest/',
+    destination: '/market-analysis/bitcoin-btc-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/bitcoin-price-prediction-today-can-btc-hit-58k-or-is-a-drop-to-52k/',
+    destination: '/market-analysis/bitcoin-btc-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/bitcoin-btc-price-prediction-today-is-a-short-squeeze-on-the-horizon/',
+    destination: '/market-analysis/bitcoin-btc-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/bitcoin-btc-price-prediction-today-will-63k-hold-or-break-in-q4-2024/',
+    destination: '/market-analysis/bitcoin-btc-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/bitcoin-btc-price-prediction-today-will-it-drop-below-56k-soon/',
+    destination: '/market-analysis/bitcoin-btc-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/bitcoin-btc-58k-base-holding-next-move-to-60k-or-lower/',
+    destination: '/market-analysis/bitcoin-btc-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/bitcoin-btc-price-prediction-will-it-break-out-of-the-58k-62k-range/',
+    destination: '/market-analysis/bitcoin-btc-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/bitcoin-btc-price-prediction-today-will-it-bounce-back-20/',
+    destination: '/market-analysis/bitcoin-btc-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/bitcoin-bull-run-and-price-predictions-new-highs-coming-next-month/',
+    destination: '/market-analysis/bitcoin-btc-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+}
+{
+    source: '/market-analysis/shiba-inu-shib-technical-analysis-next-move-above-0-0000215/',
+    destination: '/market-analysis/shiba-inu-shib-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/shiba-inu-shib-technical-analysisis-is-it-ready-for-another-400-rally/',
+    destination: '/market-analysis/shiba-inu-shib-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/shiba-inu-shib-price-prediction-today-will-it-hit-180-soon/',
+    destination: '/market-analysis/shiba-inu-shib-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+}
+
+{
+    source: '/market-analysis/shiba-inu-shib-price-prediction/',
+    destination: '/market-analysis/shiba-inu-shib-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+}
+{
+    source: '/market-analysis/pepe-technical-analysis-can-pepe-reclaim-trendline-for-bullish-move/',
+    destination: '/market-analysis/pepe-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/pepe-technical-analysis-will-0-0000114-rejection-lead-to-a-dip/',
+    destination: '/market-analysis/pepe-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/pepe-technical-analysis-can-pepe-break-through-the-0-000013-resistance-next/',
+    destination: '/market-analysis/pepe-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/pepe-price-prediction-will-bulls-break-resistance-soon/',
+    destination: '/market-analysis/pepe-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/on-demand-ta-is-it-time-to-accumulate-pepe/',
+    destination: '/market-analysis/pepe-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/pepe-price-prediction-today-is-the-0-50595-0-50890-range-key/',
+    destination: '/market-analysis/pepe-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/pepe-price-prediction-today-will-it-hold-above-support/',
+    destination: '/market-analysis/pepe-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/pepe-price-prediction-today-will-it-hit-0-001/',
+    destination: '/market-analysis/pepe-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/pepe-price-prediction-today-is-a-breakout-imminent/',
+    destination: '/market-analysis/pepe-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+}
+{
+    source: '/market-analysis/dogecoin-doge-technical-analysis-can-doge-hold-0-13-support/',
+    destination: '/market-analysis/dogecoin-doge-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/doge-technical-analysis-can-momentum-push-doge-from-0-13-to-0-175/',
+    destination: '/market-analysis/dogecoin-doge-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/doge-technical-analysis-can-it-break-0-13-for-a-70-rally/',
+    destination: '/market-analysis/dogecoin-doge-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/dogecoin-doge-price-analysis-will-0-23-be-the-next-target/',
+    destination: '/market-analysis/dogecoin-doge-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/dogecoin-doge-price-prediction-today-will-dogecoin-surpass-0-104-resistance/',
+    destination: '/market-analysis/dogecoin-doge-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/dogecoin-doge-price-prediction-today-will-0-13-trigger-a-reversal/',
+    destination: '/market-analysis/dogecoin-doge-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/dogecoin-doge-price-prediction-today-can-0-1-resistance-hold/',
+    destination: '/market-analysis/dogecoin-doge-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+},
+{
+    source: '/market-analysis/dogecoin-doge-price-prediction-today-will-0-10-break-soon/',
+    destination: '/market-analysis/dogecoin-doge-price-prediction-today/',
+    permanent: true,
+    statusCode: 301,
+}
