@@ -28,11 +28,11 @@ Disallow: /an-introduction-to-nfts/
 Disallow: /_next/
 Disallow: /author/mjackcryptonary-com/
 
-Disallow: /podcast
-Disallow: /crypto-courses
+Disallow: /podcast/
+Disallow: /crypto-courses/
 Disallow: /wp-admin/
 Disallow: /m/
-Disallow: /crypto-quiz
+Disallow: /crypto-quiz/
 
 Disallow: /crypto-courses/crypto-trading/
 Disallow: /crypto-courses/crypto-trading/modules/
