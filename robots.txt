@@ -29,7 +29,6 @@ Disallow: /_next/
 Disallow: /author/mjackcryptonary-com/
 
 Disallow: /podcast/
-Disallow: /crypto-courses/
 Disallow: /wp-admin/
 Disallow: /m/
 Disallow: /crypto-quiz/
