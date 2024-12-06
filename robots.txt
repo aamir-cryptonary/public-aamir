@@ -1,0 +1,50 @@
+User-agent: *
+Disallow: /my-account/
+Disallow: /checkout/
+Disallow: /api/
+Disallow: /monitoring/
+Disallow: /*?type=*
+Disallow: /post/
+
+Disallow: /premium-research-trial
+Disallow: /smart-money-trial
+Disallow: /get-started-free
+Disallow: /future-of-money-trial
+Disallow: /cryptonary-pro-trial
+Disallow: /cryptonary-member-trial
+Disallow: /cpro-trial
+Disallow: /trading-trial
+Disallow: /membership-lp
+Disallow: /memecoin-lp
+
+Disallow: /category/
+Disallow: /cryptoschool-category/
+Disallow: /fundamentals/
+Disallow: /journal-category/
+Disallow: /members-breakdowns/
+Disallow: /ref/
+Disallow: /research-category/
+Disallow: /an-introduction-to-nfts/
+Disallow: /_next/
+Disallow: /author/mjackcryptonary-com/
+
+Disallow: /podcast
+Disallow: /crypto-courses
+Disallow: /wp-admin/
+Disallow: /m/
+Disallow: /crypto-quiz
+
+Disallow: /crypto-courses/crypto-trading/
+Disallow: /crypto-courses/crypto-trading/modules/
+
+Sitemap: https://cryptonary.com/market-analysis-sitemap.xml
+Sitemap: https://cryptonary.com/research-sitemap.xml
+Sitemap: https://cryptonary.com/crypto-school-sitemap.xml
+Sitemap: https://cryptonary.com/market-notes-sitemap.xml
+Sitemap: https://cryptonary.com/archived-posts-sitemap.xml
+
+# Pages Sitemap
+Sitemap: https://cryptonary.com/page-sitemap.xml
+
+# General Sitemap Index
+Sitemap: https://cryptonary.com/sitemap-index.xml
