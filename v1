@@ -1,4 +1,10 @@
 {
+    source: '/cryptoschool/top-7-ethereum-meme-coins/',
+    destination: '/cryptoschool/ethereum-meme-coins/',
+    permanent: true,
+    statusCode: 301,
+},
+{
     source: '/market-analysis/tremp-price-prediction-today-will-it-break-the-downtrend-soon/',
     destination: '/market-analysis/tremp-price-prediction-today/',
     permanent: true,
